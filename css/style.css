@@ -498,7 +498,7 @@ section.dark .section-title::after {
     flex-wrap: wrap;
 }
 
-.contact-form input, .contact-form textarea {
+.contact-form input, .contact-form textarea{
     width: 100%;
     height: 50px;
     margin: 10px 0;
@@ -510,11 +510,11 @@ section.dark .section-title::after {
     color: #fff;
 }
 
-.nameZone, .emailZone {
+.nameZone, .emailZone{
     max-width: calc(50% - 10px);
 }
 
-.messageZone {
+.messageZone{
     min-height: 200px;
     resize: vertical;
 }
@@ -536,7 +536,7 @@ section.dark .section-title::after {
     color: #fff;
 }
 
-.footer {
+footer {
     background: url(../images/bg.jpg) no-repeat center;
     color: #fff;
     padding: 80px 0;
