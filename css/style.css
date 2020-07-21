@@ -315,7 +315,7 @@ section.dark .section-title::after {
 }
 
 .service {
-    width: calc(33% - 20px);
+    width: calc(30% - 20px);
     text-align: center;
     border: 1px solid #48dbfb;
     border-radius: 6px;
